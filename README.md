@@ -1,3 +1,10 @@
+
+## Contributors
+
+<a href="https://github.com/vicheanath/mini-pms/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vicheanath/mini-pms" />
+</a>
+
 <h1 align="center">
  Mini Property Management System
 </h1>
@@ -119,12 +126,6 @@ npm start
   - password: `123`
 
 ## Usage
-
-## Contributors
-
-<a href="https://github.com/vicheanath/mini-pms/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vicheanath/mini-pms" />
-</a>
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
